@@ -6,7 +6,7 @@
 
     <groupId>xyz.dowenwork.npl</groupId>
     <artifactId>lucene-char-filter-chinese-simplifying</artifactId>
-    <version>6.2.0.0-SNAPSHOT</version>
+    <version>6.2.0.0</version>
     <packaging>jar</packaging>
     <description>繁体转简体charFilter</description>
 
